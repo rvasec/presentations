@@ -1,4 +1,6 @@
-<img src="rvasec.png" align="right" width="200" alt="RVAsec logo">
+<div align="right">
+  <img src="rvasec.png" width="200" alt="RVAsec logo">
+</div>
 
 # RVAsec Presentations
 
