@@ -1,10 +1,11 @@
-<div align="right">
-  <img src="rvasec.png" width="200" alt="RVAsec logo">
-</div>
-
 # RVAsec Presentations
 
-Archive of speaker slides from [RVAsec](https://rvasec.com), the annual Richmond, Virginia information security conference.
+<table border=0 width=100%">
+  <tr>
+    <td>Archive of speaker slides from <a href="https://rvasec.com">RVAsec</a>, the annual Richmond, Virginia information security conference.</td>
+    <td align="right"><img src="rvasec.png" width="200" alt="RVAsec logo"></td>
+  </tr>
+</table>
 
 ## Conferences
 
