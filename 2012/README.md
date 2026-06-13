@@ -4,15 +4,15 @@ Speaker slides from RVAsec 2012.
 
 ## Presentations
 
-- [altman_reverse_engineering_obfuscated_dotnet_rvasec_2012.pptx](./altman_reverse_engineering_obfuscated_dotnet_rvasec_2012.pptx)
-- [eiram_code_maturity_rvasec_2012.pptx](./eiram_code_maturity_rvasec_2012.pptx)
-- [elrod_i_am_not_a_doctor_rvasec_2012.pptx](./elrod_i_am_not_a_doctor_rvasec_2012.pptx)
-- [ely__managing_security_in_the_cloud_rvasec_2012.ppt](./ely__managing_security_in_the_cloud_rvasec_2012.ppt)
-- [gerling_dont_be_a_cog_in_the_wheel_rvasec_2012.pptx](./gerling_dont_be_a_cog_in_the_wheel_rvasec_2012.pptx)
-- [grec_php_insecurity_rvasec_2012.pptx](./grec_php_insecurity_rvasec_2012.pptx)
-- [jericho_Errata_rvasec_2012.pptx](./jericho_Errata_rvasec_2012.pptx)
-- [ranum_rvasec_2012.ppt](./ranum_rvasec_2012.ppt)
-- [towne_why_do_you_lock_your_door_rvasec_2012.ppt](./towne_why_do_you_lock_your_door_rvasec_2012.ppt)
+- [Adam Ely - Managing Security in the Cloud](./Adam_Ely-Managing-Security-in-the-Cloud.ppt)
+- [Carsten Eiram - Code Maturity](./Carsten_Eiram-Code-Maturity.pptx)
+- [Chris Gerling - Dont Be A Cog In The Wheel](./Chris_Gerling-Dont-Be-A-Cog-In-The-Wheel.pptx)
+- [Grecs PHP - Insecurity](./Grecs_PHP-Insecurity.pptx)
+- [Jericho Errata](./Jericho_Errata.pptx)
+- [Marcus Ranum - Keynote](./Marcus_Ranum-Keynote.ppt)
+- [Schuyler Towne - Why Do You Lock Your Door](./Schuyler_Towne-Why-Do-You-Lock-Your-Door.ppt)
+- [Tim Elrod - I Am Not A Doctor](./Tim_Elrod-I-Am-Not-A-Doctor.pptx)
+- [Travis Altman - Reverse Engineering Obfuscated Dotnet](./Travis_Altman-Reverse-Engineering-Obfuscated-Dotnet.pptx)
 
 ---
 
