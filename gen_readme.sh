@@ -55,3 +55,9 @@ year="$(basename "$PWD")"
 } > "$readme"
 
 echo "Wrote $readme"
+
+# Warn (non-fatal) if any rename left a big file outside LFS or a rule stale.
+root="$(git rev-parse --show-toplevel 2>/dev/null || true)"
+if [ -n "$root" ] && [ -x "$root/lfs_check.sh" ]; then
+    "$root/lfs_check.sh" || echo "LFS audit found issues -> run: $root/lfs_check.sh --fix"
+fi
