@@ -4,6 +4,7 @@ Speaker slides from RVAsec 2026.
 
 ## Presentations
 
+- [Andrew Skatoff - Building An Agentic Pipeline](./Andrew_Skatoff-Building-An-Agentic-Pipeline.pdf)
 - [Brian Carfdinale I - Called Your AI Agent](./Brian_Carfdinale_I-Called-Your-AI-Agent.pdf)
 - [Evan Typansky - Building Custom Detections with Zeek and Spicy](./Evan_Typansky-Building-Custom-Detections-with-Zeek-and-Spicy.pdf)
 - [Jon Waldman -  AI Security and Privacy](./Jon_Waldman--AI-Security-and-Privacy.pdf)
