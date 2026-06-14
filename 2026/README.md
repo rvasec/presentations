@@ -11,6 +11,7 @@ Speaker slides from RVAsec 2026.
 - [Jeff Man - The State of Information Security Today](./Jeff_Man-The-State-of-Information-Security-Today.pdf)
 - [Joanna Behan - Unlocking Awareness](./Joanna_Behan-Unlocking-Awareness.pdf)
 - [Jon Waldman -  AI Security and Privacy](./Jon_Waldman--AI-Security-and-Privacy.pdf)
+- [Kyle Flaherty - Empathy Not Telepathy](./Kyle_Flaherty-Empathy-Not-Telepathy.pdf)
 - [Victoria Mosby - Use It Monday](./Victoria_Mosby-Use-It-Monday.pdf)
 
 ---
