@@ -4,17 +4,17 @@ Speaker slides from RVAsec 2021.
 
 ## Presentations
 
-- [Behen_5.4_Million_Vulnerabilities_and_Counting.pptx](./Behen_5.4_Million_Vulnerabilities_and_Counting.pptx)
-- [Draper_Raising_the_Average.pptx](./Draper_Raising_the_Average.pptx)
-- [Holliday_20211105_RVASec_CMMC.pdf](./Holliday_20211105_RVASec_CMMC.pdf)
-- [Jankowski_rvasec-2021-network-assessments-quackery.pptx](./Jankowski_rvasec-2021-network-assessments-quackery.pptx)
-- [Johnson_Zero-Trust-The-Good-Parts.pptx](./Johnson_Zero-Trust-The-Good-Parts.pptx)
-- [MacAlpine_Ransomware_MM.pdf](./MacAlpine_Ransomware_MM.pdf)
-- [Mattingly_Bake_Security_Into_Your_Infrastructure_as_Code.pdf](./Mattingly_Bake_Security_Into_Your_Infrastructure_as_Code.pdf)
-- [Switzer_why-i-love-purple-teaming.pptx](./Switzer_why-i-love-purple-teaming.pptx)
-- [Tehovnik_InfrastructureAsCode.pptx](./Tehovnik_InfrastructureAsCode.pptx)
-- [Thayer_Three_Worlds_of_Application_Cloud_Security.pptx](./Thayer_Three_Worlds_of_Application_Cloud_Security.pptx)
-- [Wallace_Intro_to_inner_loop.pptx](./Wallace_Intro_to_inner_loop.pptx)
+- [Anthony Switzer - Why I Love Purple Teams](./Anthony_Switzer-Why-I-Love-Purple-Teams.pptx)
+- [Caleb Mattingly - Bake Security Into Your Infra as Code](./Caleb_Mattingly-Bake-Security-Into-Your-Infra-as-Code.pdf)
+- [Evan Johnson - Zero Trust The Good Parts](./Evan_Johnson-Zero-Trust-The-Good-Parts.pptx)
+- [Jeff Tehovnik - Infrastruture As Code](./Jeff_Tehovnik-Infrastruture-As-Code.pptx)
+- [John Behen - 5.4 Million Vulnerabilities and Counting](./John_Behen-5.4-Million-Vulnerabilities-and-Counting.pptx)
+- [Josh Wallace - Introduction to Inner Loop Security](./Josh_Wallace-Introduction-to-Inner-Loop-Security.pptx)
+- [Karl Jankowski - Network Assessments Quackery](./Karl_Jankowski-Network-Assessments-Quackery.pptx)
+- [Maggie MacAlpine - Whats Next in the Fight Against Ransomware](./Maggie_MacAlpine-Whats-Next-in-the-Fight-Against-Ransomware.pdf)
+- [Richard Thayer - Three Worlds of Application Cloud Security](./Richard_Thayer-Three-Worlds-of-Application-Cloud-Security.pptx)
+- [Steve Holliday and Cherry Bekaert - CMMC](./Steve_Holliday_and_Cherry_Bekaert-CMMC.pdf)
+- [Thor Draper - Raising The Average](./Thor_Draper-Raising-The-Average.pptx)
 
 ---
 
