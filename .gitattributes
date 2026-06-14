@@ -1,6 +1,6 @@
 # Large presentations (>50 MiB) tracked via Git LFS to stay under GitHub's
 # per-file warning. Everything else is stored as normal Git objects.
 2013/Schuyler_Towne-Vulnerability-Research-Circa-1851.ppt filter=lfs diff=lfs merge=lfs -text
-2023/Collins_Kate-This_is_the_Way.pdf filter=lfs diff=lfs merge=lfs -text
 2014/Evan_Booth-Terminal-Cornucopia.pdf filter=lfs diff=lfs merge=lfs -text
 2018/Leigh_Anne_Galloway-Hack-in-Cash-Out.pptx filter=lfs diff=lfs merge=lfs -text
+2023/Kate_Collins-This-is-the-Way.pdf filter=lfs diff=lfs merge=lfs -text
