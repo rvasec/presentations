@@ -7,7 +7,7 @@ Speaker slides from RVAsec 2026.
 - [Andrew Skatoff - Building An Agentic Pipeline](./Andrew_Skatoff-Building-An-Agentic-Pipeline.pdf)
 - [Aqeel Yaseen - Troubleshooting](./Aqeel_Yaseen-Troubleshooting.pdf)
 - [Ari Suroosh and Mike Bailey - Initial Access in 2026](./Ari_Suroosh_and_Mike_Bailey-Initial-Access-in-2026.pdf)
-- [Brian Carfdinale I - Called Your AI Agent](./Brian_Carfdinale_I-Called-Your-AI-Agent.pdf)
+- [Brian Cardinale - I Called Your AI Agent](./Brian_Cardinale-I-Called-Your-AI-Agent.pdf)
 - [Chelsea Bryan - Community is a Control](./Chelsea_Bryan-Community-is-a-Control.pdf)
 - [Daniela Lulli - Securing AI and the Data That Powers It](./Daniela_Lulli-Securing-AI-and-the-Data-That-Powers-It.pdf)
 - [David S. Reign - A Peek Behind the Curtain](./David_S._Reign-A-Peek-Behind-the-Curtain.zip)
