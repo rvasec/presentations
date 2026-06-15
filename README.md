@@ -24,7 +24,7 @@
 | 2023 | [RVAsec 12](https://2023.rvasec.com/)          | [YouTube](https://www.youtube.com/playlist?list=PLyK0rk0vIZ0ey3KLTKcZh3SZF61otS3Vu)   | [Slides](./2023/)   |
 | 2024 | [RVAsec 13](https://2024.rvasec.com/)          | [YouTube](https://www.youtube.com/playlist?list=PLyK0rk0vIZ0fNDzboOeIpXEbMHPPpEFHh)   | [Slides](./2024/)   |
 | 2025 | [RVAsec 14](https://2025.rvasec.com/)          | [YouTube](https://www.youtube.com/playlist?list=PLyK0rk0vIZ0dRpFVCSqj-u5vwLfJeOCUN)   | [Slides](./2025/)   |
-| 2026 | [RVAsec 15](https://2026.rvasec.com/)          | | [Slides](./2026/)   |
+| 2026 | [RVAsec 15](https://2026.rvasec.com/)          | [YouTube](https://www.youtube.com/playlist?list=PLyK0rk0vIZ0deENNM5Izmbj-Nn2gmf4N8)   | [Slides](./2026/)   |
 
 ## Copyright
 
