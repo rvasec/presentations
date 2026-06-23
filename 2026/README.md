@@ -17,6 +17,7 @@ Speaker slides from RVAsec 2026.
 - [Jeff Man - The State of Information Security Today](./Jeff_Man-The-State-of-Information-Security-Today.pdf)
 - [Joanna Behan - Unlocking Awareness](./Joanna_Behan-Unlocking-Awareness.pdf)
 - [Jon Waldman -  AI Security and Privacy](./Jon_Waldman--AI-Security-and-Privacy.pdf)
+- [Kim Mahan - Alert Fatigue](./Kim_Mahan-Alert-Fatigue.pdf)
 - [Kyle Flaherty - Empathy Not Telepathy](./Kyle_Flaherty-Empathy-Not-Telepathy.pdf)
 - [Michael Darling - Secure by Design Trusted Through Compliance](./Michael_Darling-Secure-by-Design-Trusted-Through-Compliance.pdf)
 - [Michael Roytman and Max Voldman - No Breach Required](./Michael_Roytman_and_Max_Voldman-No-Breach-Required.pdf)
