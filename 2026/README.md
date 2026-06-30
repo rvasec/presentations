@@ -21,6 +21,7 @@ Speaker slides from RVAsec 2026.
 - [Kyle Flaherty - Empathy Not Telepathy](./Kyle_Flaherty-Empathy-Not-Telepathy.pdf)
 - [Michael Darling - Secure by Design Trusted Through Compliance](./Michael_Darling-Secure-by-Design-Trusted-Through-Compliance.pdf)
 - [Michael Roytman and Max Voldman - No Breach Required](./Michael_Roytman_and_Max_Voldman-No-Breach-Required.pdf)
+- [Nancy Coblenz - Gigawatts and Governance](./Nancy_Coblenz-Gigawatts-and-Governance.pdf)
 - [Nick Copi - Hacking Customized IDE Distributions](./Nick_Copi-Hacking-Customized-IDE-Distributions.pdf)
 - [Paul Brownridge - Flirting with AI](./Paul_Brownridge-Flirting-with-AI.pdf)
 - [Vas Khomyk - The Interview Engine](./Vas_Khomyk-The-Interview-Engine.pptx)
